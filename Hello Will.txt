@@ -1,0 +1,6 @@
+Hello
+ will, this file is used to test the Git/GitHub
+ I'm still learning how to use this amazing tooll.
+
+Thanks and regards,
+	zhuwei
